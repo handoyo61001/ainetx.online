@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gamefi &#8211; Trading &amp; Analisis Crypto</title>
+	<atom:link href="./index.html?simply_static_page=177" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Berita Terupdate dan Tutorial Trading Bitcoin, Ethereum, XRP &#38; Analisis Market</description>
+	<lastBuildDate>Fri, 20 Jan 2023 07:36:59 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>National Australia Bank akan Meluncurkan Stablecoin di Ethereum, Algorand: Report</title>
+		<link>./../../../national-australia/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 20 Jan 2023 07:01:20 +0000</pubDate>
+				<category><![CDATA[Gamefi]]></category>
+		<category><![CDATA[Hard Fork]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=474</guid>
+
+					<description><![CDATA[Stablecoin akan didukung 1:1 oleh dolar Australia (AUD). Men﻿urut laporan Australian Financial Review (AFR), AUDN akan memungkinkan pengguna untuk menyelesaikan transaksi pada teknologi blockchain secara real-time dengan bantuan dolar Australia. NAB juga mengatakan stablecoin dirancang untuk melayani berbagai tujuan, seperti &#8230; <a href="./../../../national-australia/index.html">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Stablecoin akan didukung 1:1 oleh dolar Australia (AUD).</p>
+<p>Men<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span>urut laporan Australian Financial Review (AFR), AUDN akan memungkinkan pengguna untuk menyelesaikan transaksi pada teknologi blockchain secara real-time dengan bantuan dolar Australia. NAB juga mengatakan stablecoin dirancang untuk melayani berbagai tujuan, seperti perdagangan kredit karbon, transfer uang lintas batas, dan perjanjian pembelian kembali. Selain itu, bank akan bertanggung jawab untuk memegang stablecoin yang didukung fiat Australia.</p>
+<p>Dalam sebuah pernyataan, Kepala Inovasi NAB Howard Silby dikutip mengatakan,</p>
+<p>“Kami yakin ada elemen teknologi blockchain yang akan menjadi bagian dari masa depan keuangan […] Dari sudut pandang kami, kami melihat [blockchain] memiliki potensi untuk memberikan hasil keuangan yang instan, transparan, inklusif.”</p>
+<p>Infrastruktur saat ini untuk transaksi luar negeri didominasi oleh jaringan SWIFT, yang tidak diragukan lagi merupakan sistem lama. Namun, peluncuran AUDN dapat memberikan alternatif yang efektif bagi banyak pengguna.</p>
+<p>Perkembangan tersebut terjadi empat bulan setelah Senator Australia Andrew Bragg menyusun undang-undang yang bertujuan untuk menempatkan sektor cryptocurrency domestik di bawah pengawasan ketat. RUU tersebut mengharuskan pertukaran aset digital dan penerbit stablecoin untuk mengungkapkan operasi mereka kepada pihak berwenang. Ini juga menargetkan bank-bank China yang berurusan dengan yuan digital di negara tersebut.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>OKX Merilis Laporan Proof-of-Reserves Dengan “Aset Bersih” $7,5 Miliar</title>
+		<link>./../../../okx-merilis/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 20 Jan 2023 06:59:45 +0000</pubDate>
+				<category><![CDATA[Defi]]></category>
+		<category><![CDATA[Gamefi]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=472</guid>
+
+					<description><![CDATA[Cadangan tidak mengandung token asli OKX. Menurut data terbaru, dompet OKX menyimpan 123.914 BTC terhadap saldo pengguna 117.682 BTC pada 18 Januari. Pertukaran itu overcollateralized dengan rasio cadangan Bitcoin 101%, tidak berubah sejak laporan PoR bulan lalu. Demikian pula, rasio &#8230; <a href="./../../../okx-merilis/index.html">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Cadangan tidak mengandung token asli OKX. Menurut data terbaru, dompet OKX menyimpan 123.914 BTC terhadap saldo pengguna 117.682 BTC pada 18 Januari. Pertukaran itu overcollateralized dengan rasio cadangan Bitcoin 101%, tidak berubah sejak laporan PoR bulan lalu.</p>
+<p>Demikian pula, rasio cadangan untuk Ethereum mencapai 105%, sedikit meningkat dari 103% selama sebulan terakhir. OKX memegang 1.178.993 ETH terhadap saldo pengguna 1.233.714 ETH. Pada 101%, cadangan Tether juga tetap tidak berubah. OKX memegang 2.979.866.301 kepemilikan USDT terhadap 2.955.696.824 USDT dalam saldo pengguna.</p>
+<p>Pertukaran lebih lanjut mengungkapkan penerbitan lebih dari 23.000 alamat untuk program Merkle Tree Proof-of-Reserves dan akan terus menggunakannya untuk membuat tampilan aliran aset dapat diakses oleh komunitas. Mengutip temuan firma analitik blockchain CryptoQuant, OKX meyakinkan komunitas bahwa ini adalah “ cadangan aset bersih terbesar di antara bursa utama.” Untuk konteksnya, CryptoQuant sebelumnya menyatakan bahwa 100% dompet OKX bersih. Sebaliknya, ditemukan bahwa 87,67% Binance, 60,1% Huobi, 69,85% Bitfinex, 81,26% Kucoin, dan 95,49% Crypto.com bersih.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>ConsenSys dan Amber Group Masuk Daftar Perusahaan yang Memberhentikan Karyawan</title>
+		<link>./../../../consensys-dan/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 20 Jan 2023 06:54:14 +0000</pubDate>
+				<category><![CDATA[Gamefi]]></category>
+		<category><![CDATA[Hard Fork]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=458</guid>
+
+					<description><![CDATA[ConsenSys akan mengurangi jumlah karyawannya sebesar 11%, sementara Amber Group seharusnya membagi dua divisinya di Hong Kong.Joseph Lubin – CEO ConsenSys – mengatakan organisasinya membuat “keputusan yang sangat sulit” untuk memberhentikan 96 karyawannya, atau 11% dari jumlah tenaga kerja. Dia &#8230; <a href="./../../../consensys-dan/index.html">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>ConsenSys akan mengurangi jumlah karyawannya sebesar 11%, sementara Amber Group seharusnya membagi dua divisinya di Hong Kong.Joseph Lubin – CEO ConsenSys – mengatakan organisasinya membuat “keputusan yang sangat sulit” untuk memberhentikan 96 karyawannya, atau 11% dari jumlah tenaga kerja. Dia menguraikan lingkungan ekonomi makro yang menantang saat ini (didorong oleh lonjakan inflasi dan kerusuhan geopolitik) sebagai alasan utama amandemen tersebut.</p>
+<p>Lubin meyakinkan bahwa semua individu yang keluar akan menerima &#8220;paket pesangon yang murah hati&#8221;, perpanjangan tunjangan perawatan kesehatan, dan dukungan untuk transisi mereka ke perusahaan lain.</p>
+<p>Eksekutif berpendapat bahwa PHK tidak akan mengalihkan ConsenSys dari tujuan utamanya: untuk terus mengembangkan dompet crypto MetaMask dan penyedia API Web3 Infura. Lubin berpendapat bahwa ketidakpastian yang sedang berlangsung bisa menjadi peluang besar bagi industri untuk beralih dari &#8220;kepercayaan outsourcing&#8221; ke masa depan di mana sistem terdesentralisasi memungkinkan individu &#8220;melakukan kontrol atas aset digital mereka sendiri&#8221;.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Bitcoin Turun $1K Setiap Hari, Mengungguli Alts Di Tengah Peningkatan Volatilitas (Market Watch)</title>
+		<link>./../../../bitcoin-turun/index.html</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 20 Jan 2023 06:45:59 +0000</pubDate>
+				<category><![CDATA[Defi]]></category>
+		<category><![CDATA[Gamefi]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=443</guid>
+
+					<description><![CDATA[Aptos adalah salah satu dari sedikit cryptocurrency kapitalisasi besar dengan keuntungan penting hari ini. Cryptocurrency utama telah melihat awal yang kuat untuk tahun ini, yang diakui oleh analis senior Bloomberg. Lebih tepatnya, aset melonjak dari $16.500 menjadi lebih dari $21.500 &#8230; <a href="./../../../bitcoin-turun/index.html">Continue reading <span class="meta-nav">&#8594;</span></a>]]></description>
+										<content:encoded><![CDATA[<p>Aptos adalah salah satu dari sedikit cryptocurrency kapitalisasi besar dengan keuntungan penting hari ini. Cryptocurrency utama telah melihat awal yang kuat untuk tahun ini, yang diakui oleh analis senior Bloomberg. Lebih tepatnya, aset melonjak dari $16.500 menjadi lebih dari $21.500 dalam rentang waktu beberapa minggu.</p>
+<p>Kenaikan harga terbaru dan puncak lokal datang kemarin di lebih dari $21.600. Terakhir kali BTC setinggi ini terjadi pada bulan September tahun lalu. Namun, beruang mencegat pergerakan pada titik ini dan mendorongnya ke selatan.</p>
+<p>Sebagai hasil dari peningkatan volatilitas, bitcoin tergelincir lebih dari $1.000 dalam hitungan jam dan jatuh ke level terendah harian $20.400, bahkan saat cadangan di bursa terus menurun.</p>
+<p>Namun demikian, BTC bereaksi agak positif terhadap penurunan ini dan memulihkan beberapa ratus dolar. Dengan demikian, saat ini diperdagangkan mendekati $21.000 sekali lagi, dan kapitalisasi pasarnya telah dipertahankan di atas $400 miliar. Sebagian besar altcoin meniru kinerja BTC selama beberapa minggu terakhir tetapi telah mundur dengan keras sejak kemarin.</p>
+<p>Ethereum mendekati $1.600 setelah beberapa hari berturut-turut naik. Namun, retrace harian 3% telah mendorongnya kembali ke lebih dari $1.500.</p>
+<p>Binance Coin telah turun dengan persentase yang sama dan turun menjadi $290. Bahkan lebih banyak kerugian harian terlihat dari Cardano, Dogecoin, Polygon, Solana, OKB, dan top performer kemarin – Shiba Inu.</p>
+<p>Dengan sisa topi alt yang lebih besar berwarna merah, Aptos adalah salah satu dari sedikit yang benar-benar mencatat kenaikan harian. APT naik 7% dan mendekati $8.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
